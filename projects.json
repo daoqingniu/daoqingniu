@@ -1,0 +1,23 @@
+{ 
+    "spec": {
+        "repos": {
+            "kubernetes/kubernetes": "",
+            "containerd/containerd": "",
+            "clusterpedia-io/clusterpedia": "",
+            "cloudtty/cloudtty": "",
+            "istio/istio": "",
+            "envoyproxy/envoy": "",
+            "helm/helm": "",
+            "prometheus/prometheus": "",
+            "moby/moby": "",
+            "projectcalico/calico": "",
+            "vmware-tanzu/velero": "",
+            "etcd-io/etcd": "",
+            "torvalds/linux": "",
+            "cilium/cilium": "",
+            "knative/serving": "",
+            "goharbor/harbor": ""
+        }
+    },
+    "status": {}
+}
