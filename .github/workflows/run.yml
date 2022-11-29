@@ -9,8 +9,8 @@ on:
       - main
 
 env:
-  GITHUB_NAME: pacoxu-bot
-  GITHUB_EMAIL: paco2023@163.com
+  GITHUB_NAME: daoqingniu
+  GITHUB_EMAIL: daoqingniu@gmail.com
   STARED_NUMBER: 10
 
 jobs:
