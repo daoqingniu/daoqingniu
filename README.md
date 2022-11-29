@@ -21,7 +21,8 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID | REPO | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------|------------|----------|--------------|
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
 
 <!--END_SECTION:my_github-->
