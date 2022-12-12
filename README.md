@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2022-12-10   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2022-11-29   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2022-12-10   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2022-12-11   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2022-12-10   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell      | 2022-12-10   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2022-12-10   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2022-12-10   |
-|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2022-12-10   |
-| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2022-12-10   |
+| ID |                         REPO                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------|------------|------------|--------------|
+|  1 | [serving](https://github.com/knative/serving)        | 2022-11-29 | Go         | 2022-12-11   |
+|  2 | [helm](https://github.com/helm/helm)                 | 2022-11-29 | Go         | 2022-12-11   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)     | 2022-11-29 | Go         | 2022-12-10   |
+|  4 | [tag-security](https://github.com/cncf/tag-security) | 2022-11-29 | Shell      | 2022-12-10   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)              | 2022-11-29 | Go         | 2022-12-11   |
+|  6 | [landscape](https://github.com/cncf/landscape)       | 2022-11-29 | JavaScript | 2022-12-11   |
+|  7 | [linux](https://github.com/torvalds/linux)           | 2022-11-29 | C          | 2022-12-12   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)         | 2022-11-29 | C++        | 2022-12-11   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)           | 2022-11-29 | md         | 2022-12-07   |
+| 10 | [harbor](https://github.com/goharbor/harbor)         | 2022-11-29 | Go         | 2022-12-11   |
 
 <!--END_SECTION:my_github-->
