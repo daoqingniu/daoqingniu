@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2022-12-17   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2022-12-14   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2022-12-16   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2022-12-17   |
-|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2022-12-17   |
-|  6 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2022-12-18   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2022-12-16   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2022-12-17   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2022-12-17   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2022-12-18   |
+|  2 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2022-12-18   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2022-12-18   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2022-12-18   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2022-12-18   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2022-12-18   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2022-12-16   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2022-12-18   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2022-12-18   |
 
 <!--END_SECTION:my_github-->
