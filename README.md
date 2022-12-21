@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2022-12-19   |
-|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2022-12-19   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2022-12-19   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2022-12-19   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2022-12-19   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2022-12-20   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell      | 2022-12-16   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2022-12-19   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md         | 2022-12-15   |
-| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2022-12-20   |
+|  1 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2022-12-21   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2022-12-21   |
+|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2022-12-20   |
+|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2022-12-19   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2022-12-20   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2022-12-19   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md         | 2022-12-15   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell      | 2022-12-20   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2022-12-20   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2022-12-21   |
 
 <!--END_SECTION:my_github-->
