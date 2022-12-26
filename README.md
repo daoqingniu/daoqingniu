@@ -12,22 +12,22 @@
 
 
 #### Skipped repos
-helm/helm
-knative/serving
-clusterpedia-io/clusterpedia
-envoyproxy/envoy
-moby/moby
-kubernetes/kubernetes
-containerd/containerd
-projectcalico/calico
-etcd-io/etcd
-cilium/cilium
 istio/istio
-prometheus/prometheus
+projectcalico/calico
+vmware-tanzu/velero
+etcd-io/etcd
+helm/helm
+moby/moby
 torvalds/linux
+knative/serving
 goharbor/harbor
+kubernetes/kubernetes
+clusterpedia-io/clusterpedia
 cloudtty/cloudtty
-vmware-tanzu/velero<!--END_SECTION:github_repos-->
+cilium/cilium
+containerd/containerd
+envoyproxy/envoy
+prometheus/prometheus<!--END_SECTION:github_repos-->
 
 <!--START_SECTION:my_github-->
 ## The repos I created
