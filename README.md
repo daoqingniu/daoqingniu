@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2022-12-31   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2022-12-31   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2022-12-31   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2022-12-31   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2022-12-31   |
-|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2022-12-31   |
-|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2022-12-30   |
-|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2022-12-31   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2022-12-31   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2022-11-29   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2023-01-01   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2023-01-01   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2022-11-29   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2023-01-02   |
+|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2023-01-01   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2023-01-01   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2023-01-01   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2023-01-01   |
+|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2023-01-01   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2023-01-01   |
 
 <!--END_SECTION:my_github-->
