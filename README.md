@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go         | 2023-01-14   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2023-01-14   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2023-01-14   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2023-01-14   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2023-01-12   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2023-01-10   |
-|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2023-01-14   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell      | 2023-01-13   |
-|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2023-01-14   |
-| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | JavaScript | 2023-01-14   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-01-15   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-01-10   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  4 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-01-15   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-01-15   |
+|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-01-15   |
+|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-01-16   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-01-15   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-01-15   |
+| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-01-15   |
 
 <!--END_SECTION:my_github-->
