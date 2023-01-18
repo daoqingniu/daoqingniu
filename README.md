@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-01-16   |
-|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-01-16   |
-|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-01-16   |
-|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-01-15   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-01-16   |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-01-16   |
-|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-01-17   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-01-16   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-01-16   |
-| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-01-12   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-01-17   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-01-18   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-01-18   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-01-17   |
+|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-01-17   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-01-16   |
+|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell    | 2023-01-16   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-01-17   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-01-17   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-01-18   |
 
 <!--END_SECTION:my_github-->
