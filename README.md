@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2023-01-21   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2023-01-21   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2023-01-18   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2023-01-21   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md         | 2023-01-16   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell      | 2023-01-20   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2023-01-20   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2023-01-21   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2023-01-21   |
-| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2023-01-21   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-01-22   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-01-22   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-01-22   |
+|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-01-22   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell    | 2023-01-20   |
+|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-01-23   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-01-22   |
+|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-01-21   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-01-23   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
 
 <!--END_SECTION:my_github-->
