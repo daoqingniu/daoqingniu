@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2023-01-28   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2023-01-28   |
-|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2022-11-29   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | JavaScript | 2023-01-28   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2023-01-28   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2023-01-29   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell      | 2023-01-28   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2023-01-28   |
-|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2023-01-28   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2023-01-27   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-01-29   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-01-29   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-01-29   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-01-20   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-01-29   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-01-29   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-01-29   |
+|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-01-29   |
+| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-01-29   |
 
 <!--END_SECTION:my_github-->
