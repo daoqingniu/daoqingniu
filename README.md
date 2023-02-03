@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-02-01   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-02-02   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-02-03   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell    | 2023-02-02   |
 |  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-01-31   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-02-01   |
-|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-02-01   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-02-01   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-02-02   |
-|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-02-01   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-02-02   |
-| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-02-02   |
+|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-02-02   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-02-03   |
+|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-02-02   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-02-03   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-02-02   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-02-02   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-02-03   |
 
 <!--END_SECTION:my_github-->
