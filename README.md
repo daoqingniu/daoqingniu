@@ -42,17 +42,17 @@ helm/helm<!--END_SECTION:github_repos-->
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-02-19   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-02-18   |
-|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-02-18   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-02-17   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-01-31   |
-|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-02-18   |
-|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-02-19   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2023-02-16   |
-|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-02-19   |
-| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-02-18   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | Shell    | 2023-02-16   |
+|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-02-19   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-02-19   |
+|  4 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-02-20   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-02-19   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-02-19   |
+|  7 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-02-19   |
+|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-02-20   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-02-19   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-02-18   |
 
 <!--END_SECTION:my_github-->
