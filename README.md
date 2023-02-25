@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-02-24   |
-|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-02-12   |
-|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-02-23   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-02-24   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-02-23   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-02-23   |
-|  7 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-02-24   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-02-23   |
-|  9 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2023-02-23   |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-02-23   |
+|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-02-24   |
+|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-02-24   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2023-02-23   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-02-24   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-02-24   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-02-24   |
+|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-02-24   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-02-24   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-02-23   |
 
 <!--END_SECTION:my_github-->
