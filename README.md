@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-03-01   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-03-01   |
-|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-03-01   |
-|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-03-01   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-03-02   |
-|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-02-28   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-03-01   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-03-02   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-03-01   |
-| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-03-01   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-03-02   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | Shell    | 2023-03-01   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-03-01   |
+|  4 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-03-03   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-03-03   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-03-02   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-02-27   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-03-03   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-03-03   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-03-02   |
 
 <!--END_SECTION:my_github-->
