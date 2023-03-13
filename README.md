@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-03-11   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  3 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-03-11   |
-|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-03-11   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-03-11   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-03-08   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-03-12   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-03-11   |
-|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-03-12   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-03-11   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-03-13   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-03-12   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-03-08   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-03-11   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-03-12   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-03-12   |
+|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-03-12   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-03-13   |
+|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-03-12   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-03-10   |
 
 <!--END_SECTION:my_github-->
