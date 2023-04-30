@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-04-27   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-04-28   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-04-28   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-04-28   |
-|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-04-29   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-04-28   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-04-28   |
-|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-04-28   |
-| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-04-28   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-04-30   |
+|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-04-28   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-04-29   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-04-29   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-04-29   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-04-30   |
+|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-04-29   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-04-26   |
+|  9 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-04-28   |
+| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-04-28   |
 
 <!--END_SECTION:my_github-->
