@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-05-07   |
-|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-05-07   |
-|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-05-07   |
-|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-05-05   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-05-07   |
-|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-05-08   |
-|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-05-08   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-05-07   |
-|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-07   |
-| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-05-07   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-05-08   |
+|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-05-08   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-05-08   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-05-08   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-08   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-05-09   |
+|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-05-08   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-05-09   |
+| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-05-08   |
 
 <!--END_SECTION:my_github-->
