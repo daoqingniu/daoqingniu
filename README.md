@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-05-09   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-05-10   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-05-11   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-05-10   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-05-10   |
-|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-05-11   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-05-10   |
-|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-05-10   |
-| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-10   |
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-12   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-05-11   |
+|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-05-12   |
+|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-05-12   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-05-11   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-05-08   |
+|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-05-12   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-05-11   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-05-11   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-05-11   |
 
 <!--END_SECTION:my_github-->
