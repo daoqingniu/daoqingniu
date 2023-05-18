@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-05-16   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-05-16   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-05-17   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-05-16   |
-|  5 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-05-16   |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-05-17   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-05-17   |
-|  8 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-05-16   |
-|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-05-17   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-05-16   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-05-17   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-05-18   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-05-17   |
+|  4 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-05-17   |
+|  5 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-05-18   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-05-17   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-05-16   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-05-17   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-05-17   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-05-18   |
 
 <!--END_SECTION:my_github-->
