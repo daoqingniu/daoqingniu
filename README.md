@@ -44,15 +44,15 @@ envoyproxy/envoy<!--END_SECTION:github_repos-->
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-05-21   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-05-21   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-05-21   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-05-19   |
-|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-05-21   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-21   |
-|  8 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-05-21   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-05-16   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-05-21   |
+|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-05-22   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-05-22   |
+|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-05-22   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-05-22   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-05-22   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-05-22   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-05-22   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-05-22   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-05-22   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-05-22   |
 
 <!--END_SECTION:my_github-->
