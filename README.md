@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-05-30   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-05-30   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-05-30   |
-|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-05-31   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-05-31   |
+|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-05-31   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-01   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-05-31   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-05-30   |
+|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-05-31   |
 |  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-05-30   |
-|  7 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-05-31   |
-|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-05-30   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-05-31   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-05-31   |
+|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-05-30   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-05-31   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
 
 <!--END_SECTION:my_github-->
