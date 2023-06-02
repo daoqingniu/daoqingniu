@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-05-31   |
-|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-01   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-05-31   |
-|  4 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-05-30   |
-|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-05-31   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-05-30   |
-|  7 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-05-31   |
-|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-05-30   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-05-31   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-06-02   |
+|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-06-01   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-06-02   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-02   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-05-29   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-06-01   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-06-01   |
+|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-06-01   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-06-01   |
 
 <!--END_SECTION:my_github-->
