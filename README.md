@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-06-02   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-06-01   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-06-02   |
-|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-02   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-05-29   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-06-01   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-06-01   |
-|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-06-01   |
+|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-06-02   |
+|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-06-02   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-05-29   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-05-31   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-06-02   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-06-02   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-06-02   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-03   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
 | 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-06-01   |
 
 <!--END_SECTION:my_github-->
