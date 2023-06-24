@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-06-22   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-06-21   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-06-22   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-06-22   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-06-22   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-06-23   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-06-22   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-06-23   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-06-23   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-06-22   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-06-23   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-06-23   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-06-22   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-06-23   |
+|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-06-21   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-06-24   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-06-23   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-06-22   |
+| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-06-23   |
 
 <!--END_SECTION:my_github-->
