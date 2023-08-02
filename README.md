@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-07-30   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-01   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-07-31   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-07-31   |
-|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-07-31   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-07-31   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-07-31   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-07-31   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-07-31   |
-| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-07-31   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-01   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-08-01   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-08-01   |
+|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-01   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-08-02   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-08-01   |
+|  8 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-02   |
+|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-01   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-01   |
 
 <!--END_SECTION:my_github-->
