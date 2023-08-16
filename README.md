@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-08-15   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-14   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-08-15   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-14   |
+|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-08-15   |
+|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-08-15   |
+|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-08-15   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-08-15   |
 |  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-08-15   |
-|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-08-13   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-08-14   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-08-15   |
-| 10 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-08-15   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-16   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-15   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-08-15   |
+|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-15   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-16   |
 
 <!--END_SECTION:my_github-->
