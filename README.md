@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-08-23   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-08-22   |
-|  3 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-08-22   |
-|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-23   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-23   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-08-22   |
-|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-08-15   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-22   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-08-22   |
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-23   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-24   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-23   |
+|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-08-23   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-08-24   |
+|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-08-23   |
+|  7 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-23   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-08-23   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-08-23   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-23   |
 
 <!--END_SECTION:my_github-->
