@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-08-15   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-08-25   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-08-26   |
-|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-08-25   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-08-24   |
-|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-08-25   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-08-22   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-08-25   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-08-25   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-26   |
+|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-26   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-08-15   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-26   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-08-26   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-26   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-08-26   |
+|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-08-26   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-08-26   |
 
 <!--END_SECTION:my_github-->
