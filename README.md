@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-26   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-08-26   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-08-15   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-26   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-08-26   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-26   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-08-26   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-08-26   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-08-26   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-08-27   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-08-27   |
+|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-08-28   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-08-27   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-08-26   |
+|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-08-27   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-08-27   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-08-27   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-08-27   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-08-27   |
 
 <!--END_SECTION:my_github-->
