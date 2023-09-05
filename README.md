@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-09-04   |
-|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-08-31   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-09-03   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-09-03   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-09-03   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-09-04   |
-|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-09-02   |
-|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-09-03   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-09-04   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-09-04   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-09-04   |
+|  3 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-09-04   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-09-04   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-09-05   |
+|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-09-05   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-09-04   |
+|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-09-05   |
+|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-09-04   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-09-04   |
 
 <!--END_SECTION:my_github-->
