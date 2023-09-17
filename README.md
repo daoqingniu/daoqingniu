@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-09-14   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-09-15   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-09-16   |
-|  4 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-09-13   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-09-15   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-09-15   |
-|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-09-16   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-09-13   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-09-15   |
-| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-09-15   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-09-16   |
+|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-09-16   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-09-16   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-09-16   |
+|  5 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-09-16   |
+|  6 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-09-16   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-09-17   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-09-14   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-09-16   |
+| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-09-16   |
 
 <!--END_SECTION:my_github-->
