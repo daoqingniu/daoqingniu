@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-09-29   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-09-29   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-09-28   |
-|  4 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-09-29   |
-|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-09-30   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-09-29   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-09-29   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-09-29   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-09-29   |
-| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-09-29   |
+|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-09-30   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-09-30   |
+|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-09-30   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-09-27   |
+|  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-09-30   |
+|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-09-29   |
+|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-09-29   |
+|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-09-30   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-09-30   |
+| 10 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-09-30   |
 
 <!--END_SECTION:my_github-->
