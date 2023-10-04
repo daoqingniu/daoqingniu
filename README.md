@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-10-02   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-10-02   |
-|  3 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-10-03   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-10-02   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-10-02   |
-|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-10-02   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-09-28   |
-|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-10-02   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-09-21   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-09-30   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-09-21   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-10-03   |
+|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-10-03   |
+|  4 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-10-03   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-10-03   |
+|  6 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-10-04   |
+|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-10-03   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-10-02   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-10-03   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-10-04   |
 
 <!--END_SECTION:my_github-->
