@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-10-29   |
-|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-10-29   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-10-29   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-10-30   |
-|  5 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-10-29   |
-|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-10-28   |
-|  7 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-10-24   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-10-28   |
-|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-10-26   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-10-29   |
+|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-10-26   |
+|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-10-30   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-10-30   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-10-30   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-10-30   |
+|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-10-30   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-10-30   |
+|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-10-30   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-10-30   |
 
 <!--END_SECTION:my_github-->
