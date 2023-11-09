@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-11-07   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-11-08   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-11-07   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2023-11-07   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-10-24   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-11-03   |
-|  7 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-11-07   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-11-07   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-11-08   |
+|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-11-08   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-11-08   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-11-03   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-11-08   |
+|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-11-08   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-11-08   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-11-09   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-11-07   |
+|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-11-07   |
+| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-11-08   |
 
 <!--END_SECTION:my_github-->
