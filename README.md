@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2023-11-08   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-11-08   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-11-03   |
-|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-11-08   |
-|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-11-08   |
-|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-11-08   |
-|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-11-09   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-11-07   |
-|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-11-07   |
-| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-11-08   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-11-09   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-11-08   |
+|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-11-09   |
+|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-11-09   |
+|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-09   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-11-09   |
+|  7 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-11-09   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-11-10   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-11-09   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-11-10   |
 
 <!--END_SECTION:my_github-->
