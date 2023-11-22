@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-11-20   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-11-20   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-11-14   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-11-15   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-11-20   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-11-20   |
-|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-11-20   |
-|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-11-20   |
-| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-11-20   |
+|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-11-21   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-11-21   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-11-21   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-11-15   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-11-21   |
+|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-11-22   |
+|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-11-20   |
+|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-21   |
+| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-11-21   |
 
 <!--END_SECTION:my_github-->
