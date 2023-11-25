@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-11-23   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-11-24   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-23   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-11-23   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-11-23   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-11-23   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2023-11-25   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-11-25   |
+|  3 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-11-25   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-11-24   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-11-15   |
+|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-24   |
 |  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-11-24   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-11-23   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-11-23   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-11-23   |
+|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-11-24   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-11-24   |
 
 <!--END_SECTION:my_github-->
