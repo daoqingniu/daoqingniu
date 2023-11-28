@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-11-26   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2023-11-15   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-26   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-11-26   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-11-27   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2023-11-26   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-11-26   |
-|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-11-27   |
-|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2023-11-26   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2023-11-26   |
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-11-27   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-11-28   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2023-11-26   |
+|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2023-11-28   |
+|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-11-28   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2023-11-27   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2023-11-28   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-11-27   |
+|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-11-27   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-11-27   |
 
 <!--END_SECTION:my_github-->
