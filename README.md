@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-11-29   |
-|  2 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-11-28   |
-|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2023-11-28   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2023-11-28   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-11-28   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-11-28   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2023-11-27   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-11-28   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-11-29   |
-| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-11-29   |
+|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-11-29   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2023-11-29   |
+|  3 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2023-11-29   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-11-28   |
+|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | CSS      | 2023-11-29   |
+|  6 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-11-29   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2023-11-29   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-11-30   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-11-29   |
+| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-11-29   |
 
 <!--END_SECTION:my_github-->
