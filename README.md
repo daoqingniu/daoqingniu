@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2023-12-04   |
-|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | CSS      | 2023-12-03   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2023-12-04   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2023-12-02   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2023-12-03   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2023-12-03   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2023-12-03   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2023-12-03   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2023-12-02   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2023-12-04   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2023-12-04   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2023-12-05   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2023-12-04   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2023-12-05   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2023-11-15   |
+|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2023-12-04   |
+|  8 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2023-12-04   |
+|  9 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2023-12-05   |
+| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2023-12-05   |
 
 <!--END_SECTION:my_github-->
