@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-01-07   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-01-06   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-01-04   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-01-06   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-01-06   |
-|  6 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-01-06   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-01-04   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-01-06   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-01-06   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-01-06   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-01-07   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-01-07   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-01-07   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-01-07   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-01-04   |
+|  6 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-01-08   |
+|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-01-08   |
+|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-01-07   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-01-08   |
+| 10 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-01-07   |
 
 <!--END_SECTION:my_github-->
