@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-02-06   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-02-05   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-02-05   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-02-05   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-02-05   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-02-05   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-02-05   |
-|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-02-05   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-02-05   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-02-07   |
+|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-02-06   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-02-06   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-02-05   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-02-07   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-02-06   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-02-06   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-02-06   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-01-27   |
 
 <!--END_SECTION:my_github-->
