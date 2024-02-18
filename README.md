@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-02-07   |
-|  2 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-02-16   |
-|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-02-16   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-02-07   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-02-15   |
-|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-02-16   |
-|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-02-16   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-02-15   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-02-17   |
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-02-17   |
+|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-02-17   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-02-15   |
+|  4 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-02-17   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-02-18   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-02-15   |
+|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-02-17   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-02-16   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-02-17   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-02-07   |
 
 <!--END_SECTION:my_github-->
