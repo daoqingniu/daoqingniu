@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-03-09   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-03-09   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-03-06   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-03-09   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-03-09   |
-|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-03-10   |
-|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-03-10   |
-|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-03-09   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-03-08   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-03-10   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-03-10   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-02-07   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-03-10   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-03-08   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-03-10   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-03-11   |
+|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-03-10   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-03-10   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-03-10   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-03-11   |
 
 <!--END_SECTION:my_github-->
