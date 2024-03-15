@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-03-12   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-03-14   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-03-13   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-03-14   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-03-13   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-03-13   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-03-13   |
-|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-03-13   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-03-13   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-03-14   |
+|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-03-14   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-03-14   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2022-11-29   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-03-14   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-03-15   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-03-14   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-03-14   |
+|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-03-12   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-03-14   |
 
 <!--END_SECTION:my_github-->
