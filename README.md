@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-04-06   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-04-05   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-04-03   |
-|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-04-05   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-04-06   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-04-05   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-04-02   |
-|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-04-06   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-04-05   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-04-06   |
+|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-04-07   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-04-06   |
+|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-04-06   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-04-06   |
+|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-04-06   |
+|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-04-07   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-04-06   |
+|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-04-06   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-04-02   |
 
 <!--END_SECTION:my_github-->
