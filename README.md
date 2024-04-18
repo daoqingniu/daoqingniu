@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-04-16   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-04-16   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-04-15   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-04-17   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-04-16   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-04-16   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-04-16   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-04-16   |
-|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-04-16   |
-| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-04-17   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-04-17   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-04-16   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-04-17   |
+|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-04-17   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-04-18   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2022-11-29   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-04-15   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-04-17   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-04-17   |
+| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-04-18   |
 
 <!--END_SECTION:my_github-->
