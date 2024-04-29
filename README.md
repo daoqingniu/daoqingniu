@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-04-28   |
-|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-04-27   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-04-28   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-04-28   |
-|  5 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-04-27   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-04-28   |
-|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-04-27   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-04-27   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-04-27   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-04-26   |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-04-28   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-04-28   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-04-28   |
+|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-04-29   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-04-28   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-04-28   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-04-24   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-04-28   |
+|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-04-28   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-04-28   |
 
 <!--END_SECTION:my_github-->
