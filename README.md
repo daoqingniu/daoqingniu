@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-04-30   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-04-29   |
-|  3 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-04-30   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-04-30   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-05-01   |
-|  6 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-05-01   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-04-30   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-05-01   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-05-01   |
-| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-04-29   |
+|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-05-01   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-05-02   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-04-29   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-05-01   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-04-29   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-05-01   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-05-01   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-05-01   |
+|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-05-01   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-05-01   |
 
 <!--END_SECTION:my_github-->
