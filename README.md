@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-05-04   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-05-05   |
-|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-05-05   |
-|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-05-05   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-05-05   |
-|  6 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-05-05   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-05-05   |
-|  8 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-04-29   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-05-05   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-04-29   |
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-05-06   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-05-07   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-05-06   |
+|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-05-05   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-05-06   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-04-29   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-05-06   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-05-06   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-05-06   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-05-06   |
 
 <!--END_SECTION:my_github-->
