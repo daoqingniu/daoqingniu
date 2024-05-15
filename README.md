@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-05-13   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-05-13   |
-|  3 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-05-13   |
-|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-05-13   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-05-13   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-05-10   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-05-14   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-05-13   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-05-13   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-05-12   |
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-05-14   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-05-13   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-05-14   |
+|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-05-14   |
+|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-05-14   |
+|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-05-14   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-05-14   |
+|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-05-10   |
+|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-05-14   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-05-14   |
 
 <!--END_SECTION:my_github-->
