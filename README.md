@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-05-20   |
-|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-05-17   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-05-17   |
-|  4 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-05-13   |
-|  5 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-05-19   |
-|  6 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-05-19   |
-|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-05-19   |
-|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-05-19   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-05-19   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-05-17   |
+|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-05-13   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-05-17   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-05-20   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-05-20   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-05-20   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-05-19   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-05-20   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-05-20   |
+|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-05-20   |
+| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-05-20   |
 
 <!--END_SECTION:my_github-->
