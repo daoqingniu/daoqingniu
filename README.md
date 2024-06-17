@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-06-15   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-06-12   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-06-15   |
-|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-06-15   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-14   |
-|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-06-15   |
-|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-06-15   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-06-14   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-06-15   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-06-15   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-06-16   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-06-16   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-06-16   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-06-16   |
+|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-06-16   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-06-16   |
+|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-06-16   |
+|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-06-16   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-14   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-06-16   |
 
 <!--END_SECTION:my_github-->
