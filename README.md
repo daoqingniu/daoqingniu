@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-06-17   |
-|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-06-17   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-06-12   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-06-17   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-06-18   |
-|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-06-18   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-17   |
-|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-06-17   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-06-18   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-06-18   |
+|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-06-18   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-06-18   |
+|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-06-18   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-06-18   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-06-19   |
+|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-06-18   |
+|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-06-18   |
+|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-06-18   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-06-18   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-18   |
 
 <!--END_SECTION:my_github-->
