@@ -46,14 +46,14 @@
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
 |  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-06-20   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-06-19   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-06-19   |
-|  4 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-06-19   |
-|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-06-19   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-06-18   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-06-16   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-06-20   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-06-20   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-06-19   |
+|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-06-20   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-06-20   |
+|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-06-20   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-06-21   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-06-20   |
+|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-06-20   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-06-21   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-06-18   |
+| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-06-20   |
 
 <!--END_SECTION:my_github-->
