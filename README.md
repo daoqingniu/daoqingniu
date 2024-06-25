@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-19   |
-|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-06-22   |
-|  3 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-06-23   |
-|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-06-23   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-06-23   |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-06-23   |
-|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-06-24   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-06-24   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-06-23   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-06-21   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-06-18   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-06-24   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-06-24   |
+|  4 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-06-24   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-06-24   |
+|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-06-25   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-06-24   |
+|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-06-25   |
+|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-06-24   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-06-24   |
 
 <!--END_SECTION:my_github-->
