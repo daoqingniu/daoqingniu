@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-02   |
-|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-02   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-07-02   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-24   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-07-02   |
-|  6 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-07-02   |
-|  7 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-07-02   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-07-02   |
-|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-07-02   |
-| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-07-02   |
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-07-03   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-24   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-02   |
+|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-04   |
+|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-07-03   |
+|  6 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-07-03   |
+|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-07-04   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-07-03   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-07-03   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-07-03   |
 
 <!--END_SECTION:my_github-->
