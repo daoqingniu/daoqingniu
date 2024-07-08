@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-07-06   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-07-06   |
-|  3 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-07-07   |
-|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-07-07   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-07-05   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-06-24   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-07-06   |
-|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-06   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-07-06   |
-| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-07-06   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-07-05   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-07-07   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-07-07   |
+|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-07-07   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-07-08   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-07-07   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-07-07   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-07-07   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-07-08   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-07-07   |
 
 <!--END_SECTION:my_github-->
