@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-07-15   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-07-16   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-06-26   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-07-15   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-07-15   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-07-08   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-07-15   |
-|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-16   |
-|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-07-16   |
-| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-07-16   |
+|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-07-08   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-07-16   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-16   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-07-17   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-06-26   |
+|  6 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-07-16   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-07-15   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-07-17   |
+|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-16   |
+| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-07-16   |
 
 <!--END_SECTION:my_github-->
