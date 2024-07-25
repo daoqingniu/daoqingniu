@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-07-24   |
-|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-07-23   |
-|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-07-23   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-22   |
-|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-24   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-07-08   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-07-24   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-07-23   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-07-24   |
-| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-07-18   |
+|  1 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-07-24   |
+|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-25   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-24   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-07-24   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-07-24   |
+|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-07-24   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-07-21   |
+|  8 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-07-18   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-07-24   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-07-08   |
 
 <!--END_SECTION:my_github-->
