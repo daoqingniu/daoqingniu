@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-07-29   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-07-29   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-07-28   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-07-28   |
-|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-07-29   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-07-29   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-07-28   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-07-29   |
-|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-07-26   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-07-28   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-07-29   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-07-28   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-07-29   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-07-29   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-07-30   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-07-29   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-07-29   |
+|  8 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-07-29   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-07-08   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-07-29   |
 
 <!--END_SECTION:my_github-->
