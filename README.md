@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-08-02   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-08-04   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-08-04   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-08-04   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-08-04   |
-|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-08-04   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-08-05   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-08-04   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-08-05   |
-| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-08-04   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-08-05   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-08-06   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-08-05   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-08-06   |
+|  5 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-08-05   |
+|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-08-05   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-08-03   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-08-05   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-08-05   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-08-05   |
 
 <!--END_SECTION:my_github-->
