@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-08-08   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-08-08   |
-|  3 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-08-08   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-08-08   |
-|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-08-08   |
-|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-08-09   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-08-08   |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-08-01   |
-|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-08-08   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-08-08   |
+|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-08-09   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-08-09   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-08-03   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-08-09   |
+|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-08-01   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-08-08   |
+|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-08-10   |
+|  8 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-08-10   |
+|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-08-08   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-08-05   |
 
 <!--END_SECTION:my_github-->
