@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-08-23   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-08-23   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-08-23   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-08-22   |
-|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-08-22   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-08-22   |
-|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-08-22   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-08-23   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-08-22   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-08-22   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-08-23   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-08-24   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-08-23   |
+|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-08-23   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-08-23   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-08-22   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-08-22   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-08-23   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-08-23   |
+| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-08-23   |
 
 <!--END_SECTION:my_github-->
