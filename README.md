@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-09-05   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-09-06   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-09-06   |
-|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-09-06   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-09-05   |
-|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-09-06   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-09-05   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-09-05   |
-|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-09-05   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-09-05   |
+| ID |                       REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)      | 2022-11-29 | C++      | 2024-09-06   |
+|  2 | [istio](https://github.com/istio/istio)           | 2022-11-29 | Go       | 2024-09-07   |
+|  3 | [harbor](https://github.com/goharbor/harbor)      | 2022-11-29 | Go       | 2024-09-07   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)  | 2022-11-29 | Go       | 2024-09-05   |
+|  5 | [helm](https://github.com/helm/helm)              | 2022-11-29 | Go       | 2024-09-06   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger) | 2022-11-29 | Go       | 2024-09-06   |
+|  7 | [landscape](https://github.com/cncf/landscape)    | 2022-11-29 | md       | 2024-09-06   |
+|  8 | [sandbox](https://github.com/cncf/sandbox)        | 2022-11-29 | md       | 2024-08-28   |
+|  9 | [serving](https://github.com/knative/serving)     | 2022-11-29 | Go       | 2024-09-06   |
+| 10 | [etcd](https://github.com/etcd-io/etcd)           | 2022-11-29 | Go       | 2024-09-06   |
 
 <!--END_SECTION:my_github-->
