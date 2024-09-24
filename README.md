@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-09-22   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-09-23   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-09-21   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-09-23   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-09-22   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-09-22   |
-|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-09-23   |
-|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-09-23   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-09-23   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-09-20   |
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-09-24   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-09-23   |
+|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-09-23   |
+|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-09-23   |
+|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-09-24   |
+|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-09-24   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-09-23   |
+|  8 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-09-23   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-09-23   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-09-23   |
 
 <!--END_SECTION:my_github-->
