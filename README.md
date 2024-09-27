@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-09-25   |
-|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-09-25   |
-|  3 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-09-25   |
-|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-09-26   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-09-25   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-09-26   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-09-25   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-09-25   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-09-25   |
-| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-09-25   |
+| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------|------------|----------|--------------|
+|  1 | [helm](https://github.com/helm/helm)                 | 2022-11-29 | Go       | 2024-09-26   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)         | 2022-11-29 | C++      | 2024-09-27   |
+|  3 | [serving](https://github.com/knative/serving)        | 2022-11-29 | Go       | 2024-09-26   |
+|  4 | [cilium](https://github.com/cilium/cilium)           | 2022-11-29 | Go       | 2024-09-27   |
+|  5 | [harbor](https://github.com/goharbor/harbor)         | 2022-11-29 | Go       | 2024-09-26   |
+|  6 | [velero](https://github.com/vmware-tanzu/velero)     | 2022-11-29 | Go       | 2024-09-25   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)     | 2022-11-29 | Go       | 2024-09-26   |
+|  8 | [sandbox](https://github.com/cncf/sandbox)           | 2022-11-29 | md       | 2024-09-26   |
+|  9 | [tag-security](https://github.com/cncf/tag-security) | 2022-11-29 | HTML     | 2024-09-25   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)     | 2022-11-29 | Go       | 2024-09-25   |
 
 <!--END_SECTION:my_github-->
