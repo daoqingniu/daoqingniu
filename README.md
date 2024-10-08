@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                       REPO                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty) | 2022-11-29 | Go       | 2024-10-04   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)          | 2022-11-29 | Go       | 2024-10-06   |
-|  3 | [serving](https://github.com/knative/serving)    | 2022-11-29 | Go       | 2024-10-06   |
-|  4 | [harbor](https://github.com/goharbor/harbor)     | 2022-11-29 | Go       | 2024-10-07   |
-|  5 | [linux](https://github.com/torvalds/linux)       | 2022-11-29 | C        | 2024-10-07   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)       | 2022-11-29 | md       | 2024-10-02   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero) | 2022-11-29 | Go       | 2024-10-06   |
-|  8 | [cilium](https://github.com/cilium/cilium)       | 2022-11-29 | Go       | 2024-10-07   |
-|  9 | [istio](https://github.com/istio/istio)          | 2022-11-29 | Go       | 2024-10-07   |
-| 10 | [helm](https://github.com/helm/helm)             | 2022-11-29 | Go       | 2024-10-06   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-07   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-10-08   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-07   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-07   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-07   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-02   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-07   |
+|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-10-07   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-07   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-10-08   |
 
 <!--END_SECTION:my_github-->
