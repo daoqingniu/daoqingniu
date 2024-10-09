@@ -46,14 +46,14 @@
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
 |  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-07   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-10-08   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-07   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-07   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-07   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-02   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-07   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-10-07   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-07   |
-| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-10-08   |
+|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-10-08   |
+|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-10-09   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-09   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-10-09   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-04   |
+|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-10-09   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-08   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-08   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-10-08   |
 
 <!--END_SECTION:my_github-->
