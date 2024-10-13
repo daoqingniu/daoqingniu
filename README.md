@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-10-11   |
-|  2 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-10-12   |
-|  3 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-10-12   |
-|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-10-11   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-10-09   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-10-02   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-10-11   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-10-10   |
-|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-10-12   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-10-12   |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-10-12   |
+|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-10-12   |
+|  3 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-10-13   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-10-12   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-10-12   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-10-12   |
+|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-10-11   |
+|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-10-12   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-10-12   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-10-09   |
 
 <!--END_SECTION:my_github-->
