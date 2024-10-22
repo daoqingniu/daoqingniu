@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-21   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-02   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-20   |
-|  4 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-10-20   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-10-20   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-20   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-18   |
-|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-10-21   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-10-21   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-10-20   |
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-21   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-10-21   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-18   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-21   |
+|  5 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-22   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-10-21   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-22   |
+|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-10-21   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-02   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-21   |
 
 <!--END_SECTION:my_github-->
