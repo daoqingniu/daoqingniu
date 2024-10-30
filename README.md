@@ -46,14 +46,14 @@
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
 |  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-28   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-10-28   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-28   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-10-28   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-10-28   |
-|  6 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-28   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-28   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-28   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-28   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-10-28   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-28   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-29   |
+|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-10-29   |
+|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-10-29   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-29   |
+|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-10-29   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-29   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-10-29   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-30   |
 
 <!--END_SECTION:my_github-->
