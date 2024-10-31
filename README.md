@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-28   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-28   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-29   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-10-29   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-10-29   |
-|  6 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-29   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-10-29   |
-|  8 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-29   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2024-10-29   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-30   |
+|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-10-31   |
+|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-10-31   |
+|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-10-29   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-29   |
+|  5 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-10-30   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-10-31   |
+|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-10-30   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-10-30   |
+|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-10-30   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-10-30   |
 
 <!--END_SECTION:my_github-->
