@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-10-31   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-10-31   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-11-01   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-10-31   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-10-31   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-11-01   |
-|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-11-01   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-10-31   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-10-31   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-10-31   |
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-11-01   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2024-11-02   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-11-01   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-11-01   |
+|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-11-01   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-11-02   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-10-28   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-11-01   |
+|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-11-01   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-11-02   |
 
 <!--END_SECTION:my_github-->
