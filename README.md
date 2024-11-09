@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-11-07   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-11-08   |
-|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-11-08   |
-|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-11-08   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-11-07   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-11-06   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2024-11-06   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-11-07   |
-|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-11-07   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-11-07   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-11-08   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-11-07   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-11-06   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2024-11-09   |
+|  5 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-11-09   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2024-11-09   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-11-08   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-11-08   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-11-06   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-11-08   |
 
 <!--END_SECTION:my_github-->
