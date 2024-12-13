@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-12-11   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-12-12   |
-|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2024-12-11   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2024-12-11   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2024-12-11   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-12-12   |
-|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-12-11   |
-|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-12-11   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-12-11   |
-| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2024-12-12   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2024-12-12   |
+|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2024-12-12   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-12-12   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-12-12   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-12-12   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-12-12   |
+|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2024-12-12   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-12-12   |
+|  9 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2024-12-12   |
+| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-12-12   |
 
 <!--END_SECTION:my_github-->
