@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-12-10   |
-|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2024-12-15   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-12-16   |
-|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-12-15   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-12-14   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2024-12-15   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-12-15   |
-|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-12-15   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2024-12-15   |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-12-15   |
+|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2024-12-16   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2024-12-16   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2024-12-16   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2024-12-10   |
+|  5 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2024-12-16   |
+|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2024-12-16   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2024-12-14   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2024-12-17   |
+|  9 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2024-12-16   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2024-12-16   |
 
 <!--END_SECTION:my_github-->
