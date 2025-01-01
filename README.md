@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2024-12-30   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-12-19   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-12-30   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-12-30   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2024-12-30   |
-|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2024-12-31   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2024-12-30   |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-12-28   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-12-30   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-12-25   |
+|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-12-31   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-12-31   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-12-31   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-12-31   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-01-01   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-12-31   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-12-19   |
+|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-12-31   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-12-31   |
+| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-12-31   |
 
 <!--END_SECTION:my_github-->
