@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2024-12-31   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2024-12-31   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-12-31   |
-|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2024-12-31   |
+|  1 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-01-01   |
+|  2 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-01-01   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-01-01   |
+|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-01-02   |
 |  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-01-01   |
-|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2024-12-31   |
-|  7 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2024-12-19   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2024-12-31   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2024-12-31   |
-| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2024-12-31   |
+|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-01-02   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2024-12-31   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-01-02   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-01-01   |
+| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-01-02   |
 
 <!--END_SECTION:my_github-->
