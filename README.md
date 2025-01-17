@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-01-15   |
-|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-01-15   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-01-16   |
-|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-01-14   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-01-16   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-01-16   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-01-15   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-01-16   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-01-13   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-01-15   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-01-15   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-01-17   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-01-16   |
+|  4 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-01-17   |
+|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-01-17   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-01-16   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-01-16   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-01-16   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-01-16   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-01-16   |
 
 <!--END_SECTION:my_github-->
