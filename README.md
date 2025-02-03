@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-02-01   |
-|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-02-01   |
-|  3 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-02-02   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-02-01   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-02-01   |
-|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-02-02   |
-|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-02-01   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-02-01   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-02-01   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-02-01   |
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-02-02   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-02-02   |
+|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-02-02   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-02-02   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-01-31   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-02-02   |
+|  7 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-02-02   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-02-02   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-02-03   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-02-02   |
 
 <!--END_SECTION:my_github-->
