@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-02-07   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-02-09   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-02-07   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-02-09   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-02-10   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-02-07   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-02-10   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-02-10   |
 |  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-02-07   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-02-09   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-02-09   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-02-09   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-02-09   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-02-06   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-02-11   |
+|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-02-10   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-02-10   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-02-10   |
+| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-02-11   |
 
 <!--END_SECTION:my_github-->
