@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-02-12   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-02-12   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-02-11   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-02-11   |
-|  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-02-12   |
-|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-02-11   |
-|  7 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-02-11   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-02-11   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-02-11   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-02-12   |
+| ID |                       REPO                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty) | 2022-11-29 | Go       | 2025-02-07   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero) | 2022-11-29 | Go       | 2025-02-12   |
+|  3 | [landscape](https://github.com/cncf/landscape)   | 2022-11-29 | md       | 2025-02-11   |
+|  4 | [cilium](https://github.com/cilium/cilium)       | 2022-11-29 | Go       | 2025-02-13   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge) | 2022-11-29 | Go       | 2025-02-12   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)          | 2022-11-29 | Go       | 2025-02-13   |
+|  7 | [helm](https://github.com/helm/helm)             | 2022-11-29 | Go       | 2025-02-12   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)     | 2022-11-29 | C++      | 2025-02-12   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)       | 2022-11-29 | md       | 2025-02-12   |
+| 10 | [linux](https://github.com/torvalds/linux)       | 2022-11-29 | C        | 2025-02-13   |
 
 <!--END_SECTION:my_github-->
