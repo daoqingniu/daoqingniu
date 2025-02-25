@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-02-23   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-02-21   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-02-24   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-02-23   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-02-23   |
-|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-02-24   |
-|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-02-23   |
-|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-02-24   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-02-23   |
-| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-02-23   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-02-24   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-02-23   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-02-21   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-02-24   |
+|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-02-24   |
+|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-02-25   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-02-24   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-02-25   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-02-24   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-02-24   |
 
 <!--END_SECTION:my_github-->
