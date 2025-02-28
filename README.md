@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-02-27   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-02-26   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-02-26   |
-|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-02-26   |
-|  5 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-02-26   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-02-26   |
-|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-02-27   |
-|  8 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-02-23   |
-|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-02-26   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-02-26   |
+|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-02-27   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-02-27   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-02-23   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-02-28   |
+|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-02-27   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-02-25   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-02-27   |
+|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-02-28   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-02-28   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-02-27   |
 
 <!--END_SECTION:my_github-->
