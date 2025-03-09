@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-03-07   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-03-07   |
-|  3 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-03-08   |
-|  4 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-03-06   |
-|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-03-07   |
-|  6 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-03-07   |
-|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-03-08   |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-03-06   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-03-07   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-03-08   |
+|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-02-23   |
+|  2 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-03-08   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-03-08   |
+|  4 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-03-08   |
+|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-03-09   |
+|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-03-06   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-03-08   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-03-08   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-03-08   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-03-08   |
 
 <!--END_SECTION:my_github-->
