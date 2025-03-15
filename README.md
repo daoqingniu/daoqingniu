@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-03-14   |
-|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-03-13   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-03-13   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-03-13   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-03-14   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-03-14   |
-|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-02-23   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-03-13   |
-|  9 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-03-13   |
-| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-03-13   |
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-03-14   |
+|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-03-14   |
+|  3 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-03-14   |
+|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-03-15   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-03-13   |
+|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-03-14   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-03-13   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-03-14   |
+|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-03-14   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-02-23   |
 
 <!--END_SECTION:my_github-->
