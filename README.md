@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-03-18   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-03-19   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-03-18   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-03-18   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-03-18   |
-|  6 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-03-18   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-03-17   |
-|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-03-18   |
-|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-03-18   |
-| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-03-18   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-03-19   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-03-19   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-03-18   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-03-20   |
+|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-03-20   |
+|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-03-19   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-03-19   |
+|  8 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-03-19   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-03-19   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-03-19   |
 
 <!--END_SECTION:my_github-->
