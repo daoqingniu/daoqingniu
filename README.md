@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-03-22   |
-|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-03-23   |
-|  3 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-03-23   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-03-23   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-03-22   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-03-22   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-03-21   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-03-22   |
-|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-03-21   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-03-22   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-03-23   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-03-22   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-03-24   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-03-23   |
+|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-03-23   |
+|  6 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-03-23   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-03-21   |
+|  8 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-03-24   |
+|  9 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-03-23   |
+| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-03-23   |
 
 <!--END_SECTION:my_github-->
