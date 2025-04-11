@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-03-27   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-04-07   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-04-09   |
-|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-04-09   |
-|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-04-10   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-04-09   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-04-09   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-04-10   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-04-10   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-04-09   |
+|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-04-11   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-04-10   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-04-10   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-04-10   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-04-10   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-04-10   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-04-11   |
+|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-04-10   |
+|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-04-11   |
+| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-04-10   |
 
 <!--END_SECTION:my_github-->
