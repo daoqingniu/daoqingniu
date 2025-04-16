@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-04-12   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-04-15   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-04-15   |
-|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-04-15   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-04-14   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-04-15   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-04-15   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-04-13   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-04-15   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-04-14   |
+| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------|------------|----------|--------------|
+|  1 | [velero](https://github.com/vmware-tanzu/velero)     | 2022-11-29 | Go       | 2025-04-15   |
+|  2 | [cilium](https://github.com/cilium/cilium)           | 2022-11-29 | Go       | 2025-04-16   |
+|  3 | [helm](https://github.com/helm/helm)                 | 2022-11-29 | Go       | 2025-04-15   |
+|  4 | [istio](https://github.com/istio/istio)              | 2022-11-29 | Go       | 2025-04-16   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)              | 2022-11-29 | Go       | 2025-04-15   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)     | 2022-11-29 | Go       | 2025-04-14   |
+|  7 | [jaeger](https://github.com/jaegertracing/jaeger)    | 2022-11-29 | Go       | 2025-04-15   |
+|  8 | [serving](https://github.com/knative/serving)        | 2022-11-29 | Go       | 2025-04-15   |
+|  9 | [tag-security](https://github.com/cncf/tag-security) | 2022-11-29 | HTML     | 2025-04-12   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)         | 2022-11-29 | C++      | 2025-04-16   |
 
 <!--END_SECTION:my_github-->
