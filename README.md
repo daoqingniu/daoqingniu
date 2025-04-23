@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-04-21   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-04-21   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-04-14   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-04-21   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-04-21   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-04-23   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-04-22   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-04-22   |
+|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-04-22   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-04-22   |
 |  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-04-22   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-04-21   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-04-21   |
-|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-04-21   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-04-21   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-04-23   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-04-23   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-04-22   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-04-22   |
 
 <!--END_SECTION:my_github-->
