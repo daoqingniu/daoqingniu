@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-05-03   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-05-04   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-05-01   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-05-03   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-05-03   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-05-01   |
-|  7 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-05-04   |
-|  8 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-05-03   |
-|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-05-03   |
-| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-05-03   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-05-05   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-05-04   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-05-04   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-05-04   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-05-04   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-05-04   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-05-04   |
+|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-04-29   |
+|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-05-05   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-04-24   |
 
 <!--END_SECTION:my_github-->
