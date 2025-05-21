@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)           | 2022-11-29 | md       | 2025-05-19   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)     | 2022-11-29 | Go       | 2025-05-19   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)              | 2022-11-29 | Go       | 2025-05-20   |
-|  4 | [landscape](https://github.com/cncf/landscape)       | 2022-11-29 | md       | 2025-05-19   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)    | 2022-11-29 | Go       | 2025-05-19   |
-|  6 | [helm](https://github.com/helm/helm)                 | 2022-11-29 | Go       | 2025-05-19   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)         | 2022-11-29 | C++      | 2025-05-19   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)     | 2022-11-29 | Go       | 2025-05-19   |
-|  9 | [tag-security](https://github.com/cncf/tag-security) | 2022-11-29 | HTML     | 2025-05-13   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)     | 2022-11-29 | Go       | 2025-05-19   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-05-21   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-05-21   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-05-21   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-05-19   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-05-21   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-05-20   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-05-21   |
+|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-05-21   |
+|  9 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-05-20   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-05-20   |
 
 <!--END_SECTION:my_github-->
