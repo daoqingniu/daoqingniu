@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-05-30   |
-|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-05-23   |
-|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-05-29   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-05-29   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-05-30   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-05-28   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-05-29   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-05-29   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-05-29   |
-| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-05-29   |
+|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-05-31   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-05-31   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-05-30   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-05-31   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-05-30   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-05-23   |
+|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-05-30   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-05-31   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-05-30   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-05-28   |
 
 <!--END_SECTION:my_github-->
