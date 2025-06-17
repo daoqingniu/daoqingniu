@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-06-15   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-06-15   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-06-15   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-06-15   |
-|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-06-16   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-06-15   |
-|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-06-16   |
-|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-06-15   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-06-15   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-06-15   |
+|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-06-16   |
+|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-06-16   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-06-16   |
+|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-06-12   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-06-17   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-06-11   |
+|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-06-16   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-06-16   |
+|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-06-16   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-06-17   |
 
 <!--END_SECTION:my_github-->
