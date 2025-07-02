@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-06-30   |
-|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-06-30   |
-|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-01   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-06-30   |
-|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-06-30   |
-|  6 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-06-30   |
-|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-01   |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-06-26   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-01   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-06-30   |
+|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-02   |
+|  2 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-07-01   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-07-02   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-01   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-06-27   |
+|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-02   |
+|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-02   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-01   |
+|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-02   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-07-01   |
 
 <!--END_SECTION:my_github-->
