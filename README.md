@@ -44,15 +44,15 @@ istio/istio<!--END_SECTION:github_repos-->
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-07-02   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-07-03   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-07-03   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-06-27   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-07-03   |
-|  6 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-07-03   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-07-03   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-07-03   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-06-18   |
-| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-07-03   |
+|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-07-04   |
+|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-07-02   |
+|  3 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-07-04   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-07-05   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-07-04   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-07-04   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-07-04   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-07-04   |
+|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-07-05   |
+| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-07-04   |
 
 <!--END_SECTION:my_github-->
