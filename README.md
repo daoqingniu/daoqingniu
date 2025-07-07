@@ -42,17 +42,17 @@ istio/istio<!--END_SECTION:github_repos-->
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-06   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-05   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-06-18   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-07-05   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-07-04   |
-|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-05   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-07-05   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-06   |
-|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-02   |
-| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-07-05   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-06-18   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-07-03   |
+|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-07-06   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-07-06   |
+|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-07-06   |
+|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-07-06   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-07-07   |
+|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-07-06   |
+|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-07-04   |
+| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-07-05   |
 
 <!--END_SECTION:my_github-->
