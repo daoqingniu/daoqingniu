@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-07-09   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-07-09   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-07-08   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-07-08   |
-|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-07-09   |
-|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-07-09   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-07-08   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-07-09   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-07-09   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-07-08   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-09   |
+|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-09   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-09   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-07   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-07-09   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-07-10   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-07-04   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-10   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-07-10   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-06-18   |
 
 <!--END_SECTION:my_github-->
