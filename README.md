@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-09   |
-|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-09   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-09   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-07   |
-|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-07-09   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-07-10   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-07-04   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-10   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-07-10   |
-| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-06-18   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-11   |
+|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-10   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-07-10   |
+|  4 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-11   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-11   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-07-10   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-11   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-07-10   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-10   |
+| 10 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-11   |
 
 <!--END_SECTION:my_github-->
