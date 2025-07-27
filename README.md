@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-25   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-07-26   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-07-26   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-23   |
-|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-26   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-07-25   |
-|  7 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-07-26   |
-|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-07-25   |
-|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-25   |
-| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-26   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-27   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-07-25   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-07-25   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-27   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-07-26   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-26   |
+|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-26   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-26   |
+|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-07-26   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
 
 <!--END_SECTION:my_github-->
