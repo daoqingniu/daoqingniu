@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-07-26   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-28   |
-|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-28   |
-|  5 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-27   |
-|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-07-26   |
-|  7 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-07-27   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-07-27   |
-|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-07-27   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-07-27   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-07-28   |
+|  2 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-07-28   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-07-28   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-07-29   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-07-28   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-07-25   |
+|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-07-28   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-07-28   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-07-22   |
 
 <!--END_SECTION:my_github-->
