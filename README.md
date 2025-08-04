@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-08-03   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-08-02   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-08-02   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-08-02   |
-|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-08-03   |
-|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-08-02   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-08-02   |
-|  9 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-08-03   |
-| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-08-02   |
+|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-08-03   |
+|  2 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-08-03   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-08-02   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-08-03   |
+|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-08-04   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-08-04   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-08-03   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-07-31   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-08-03   |
 
 <!--END_SECTION:my_github-->
