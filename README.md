@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-08-05   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-08-05   |
-|  3 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-08-05   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-08-06   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-08-06   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-08-05   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-08-06   |
-|  8 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-07-31   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-08-05   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-08-05   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-08-06   |
+|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-08-06   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-08-07   |
+|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-08-06   |
+|  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-08-06   |
+|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-08-06   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-08-06   |
+|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-08-06   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-08-06   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-08-07   |
 
 <!--END_SECTION:my_github-->
