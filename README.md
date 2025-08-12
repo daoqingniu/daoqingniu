@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-08-10   |
-|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-08-10   |
-|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-08-10   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-08-10   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-08-10   |
-|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-08-11   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-08-10   |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
-|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-08-10   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-08-05   |
+|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-08-11   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-08-11   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-07-26   |
+|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-08-12   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-08-11   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-08-10   |
+|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-08-11   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-08-12   |
+|  9 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-08-12   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-08-11   |
 
 <!--END_SECTION:my_github-->
