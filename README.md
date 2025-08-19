@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-07-31   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-08-18   |
-|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-08-17   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-08-14   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-08-18   |
-|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-08-18   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-08-17   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-08-17   |
-|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-08-17   |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-08-17   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-08-18   |
+|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-08-19   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-08-18   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-08-18   |
+|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-08-19   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-08-18   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-08-18   |
+|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-08-19   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-08-18   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-07-31   |
 
 <!--END_SECTION:my_github-->
