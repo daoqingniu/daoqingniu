@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-09-01   |
-|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-08-31   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-09-01   |
-|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-09-01   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-08-31   |
-|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-08-31   |
+|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-09-01   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-09-02   |
+|  3 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-09-01   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-08-31   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-09-01   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-09-01   |
 |  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-08-24   |
-|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-09-01   |
-|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2025-08-30   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-09-01   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-09-02   |
 | 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-08-27   |
 
 <!--END_SECTION:my_github-->
