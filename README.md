@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-09-05   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-09-05   |
-|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-09-05   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-09-06   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-09-05   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-09-06   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-09-05   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-09-05   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-09-06   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-09-05   |
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-09-06   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-09-06   |
+|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-09-07   |
+|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-09-06   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-09-07   |
+|  6 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-09-07   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-08-20   |
+|  8 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-09-06   |
+|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-09-05   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-09-07   |
 
 <!--END_SECTION:my_github-->
