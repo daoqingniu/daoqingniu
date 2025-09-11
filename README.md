@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)         | 2022-11-29 | Go       | 2025-09-09   |
-|  2 | [landscape](https://github.com/cncf/landscape)       | 2022-11-29 | md       | 2025-09-09   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)         | 2022-11-29 | C++      | 2025-09-10   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)    | 2022-11-29 | Go       | 2025-09-09   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)              | 2022-11-29 | Go       | 2025-09-09   |
-|  6 | [istio](https://github.com/istio/istio)              | 2022-11-29 | Go       | 2025-09-09   |
-|  7 | [serving](https://github.com/knative/serving)        | 2022-11-29 | Go       | 2025-09-09   |
-|  8 | [tag-security](https://github.com/cncf/tag-security) | 2022-11-29 | HTML     | 2025-09-08   |
-|  9 | [cilium](https://github.com/cilium/cilium)           | 2022-11-29 | Go       | 2025-09-10   |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)     | 2022-11-29 | Go       | 2025-09-10   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-09-10   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-09-10   |
+|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-09-10   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-09-10   |
+|  5 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-09-10   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-09-10   |
+|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-09-10   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-09-10   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-09-10   |
+| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-09-10   |
 
 <!--END_SECTION:my_github-->
