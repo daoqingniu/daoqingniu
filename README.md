@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-09-11   |
-|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-09-11   |
-|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-09-11   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-09-11   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | md       | 2025-08-20   |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-09-12   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-09-11   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-09-11   |
-|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-09-11   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-09-10   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-09-13   |
+|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-09-12   |
+|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-09-12   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-09-06   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-09-11   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-09-12   |
+|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-09-12   |
+|  8 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-09-12   |
+|  9 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-09-12   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-09-12   |
 
 <!--END_SECTION:my_github-->
