@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-09-29   |
-|  2 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-09-29   |
-|  3 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-09-29   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-09-29   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-09-29   |
-|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-09-29   |
-|  7 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-09-30   |
-|  8 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | md       | 2025-09-14   |
-|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-09-29   |
-| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-09-28   |
+|  1 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-09-30   |
+|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-10-01   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-09-30   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-09-30   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2025-09-30   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-10-01   |
+|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-09-30   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-09-28   |
+|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-09-30   |
+| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-10-01   |
 
 <!--END_SECTION:my_github-->
