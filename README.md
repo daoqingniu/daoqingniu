@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2025-10-03   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-10-03   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-10-04   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-10-03   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-10-03   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-09-24   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-10-03   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-10-03   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-10-04   |
-| 10 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-10-04   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-09-24   |
+|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2025-10-05   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-10-05   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2025-10-04   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2025-10-05   |
+|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2025-10-04   |
+|  7 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2025-10-04   |
+|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-09-28   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-10-04   |
+| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2025-10-05   |
 
 <!--END_SECTION:my_github-->
