@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2025-10-09   |
-|  2 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2025-10-10   |
-|  3 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2025-10-10   |
-|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2025-10-09   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2025-10-08   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2025-10-09   |
-|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2025-10-10   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2025-10-09   |
-|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2025-10-10   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2025-10-10   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2025-10-08   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2025-10-10   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2025-10-11   |
+|  4 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2025-10-10   |
+|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2025-10-09   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2025-10-10   |
+|  7 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2025-10-10   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2025-10-11   |
+|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2025-10-10   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2025-10-10   |
 
 <!--END_SECTION:my_github-->
