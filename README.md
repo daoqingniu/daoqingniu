@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-10-15   |
-|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-10-18   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2025-10-18   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-10-18   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-10-18   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-10-18   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-10-16   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-10-19   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-10-19   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-10-17   |
+|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-10-20   |
+|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-10-20   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-10-19   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-10-19   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-10-19   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-10-17   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-10-19   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-10-20   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-10-20   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-10-19   |
 
 <!--END_SECTION:my_github-->
