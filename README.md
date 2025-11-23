@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2025-11-20   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2025-11-21   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2025-11-17   |
-|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2025-11-21   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2025-11-19   |
-|  6 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2025-11-21   |
-|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2025-11-22   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2025-11-21   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2025-11-14   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2025-11-19   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-11-22   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2025-11-23   |
+|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2025-11-23   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-11-17   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-11-22   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-11-19   |
+|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-11-23   |
+|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-11-23   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2025-11-21   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-11-22   |
 
 <!--END_SECTION:my_github-->
