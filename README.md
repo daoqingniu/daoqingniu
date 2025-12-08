@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2025-12-07   |
-|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2025-12-06   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2025-12-06   |
-|  4 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2025-12-06   |
-|  5 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2025-12-06   |
-|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2025-12-06   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2025-12-06   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2025-12-06   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2025-12-06   |
-| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-12-03   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2025-12-07   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-12-07   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-11-30   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-12-07   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2025-12-07   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-12-07   |
+|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-12-07   |
+|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-12-07   |
+|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2025-12-08   |
+| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-12-06   |
 
 <!--END_SECTION:my_github-->
