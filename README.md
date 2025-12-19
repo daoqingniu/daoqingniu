@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2025-12-17   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2025-12-17   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2025-12-18   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2025-12-10   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2025-12-18   |
-|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2025-12-18   |
-|  7 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2025-12-18   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2025-12-17   |
+|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2025-12-18   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2025-12-18   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2025-12-10   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go         | 2025-12-18   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2025-12-19   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2025-12-18   |
+|  7 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2025-12-18   |
+|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2025-12-19   |
 |  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2025-12-14   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2025-12-17   |
+| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2025-12-19   |
 
 <!--END_SECTION:my_github-->
