@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2025-12-19   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2025-12-18   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2025-12-19   |
-|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2025-12-19   |
-|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2025-12-20   |
-|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2025-12-19   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2025-12-18   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2025-12-20   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2025-12-19   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2025-12-19   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2025-12-20   |
+|  2 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-12-20   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-12-19   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2025-12-20   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2025-12-21   |
+|  6 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2025-12-19   |
+|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-12-18   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-12-19   |
+|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2025-12-20   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2025-12-20   |
 
 <!--END_SECTION:my_github-->
