@@ -8,26 +8,27 @@
 ### The intersted repos
 | ID |                              REPO                               | STARS  | UPDATEDAT  | CREATEDAT  | FORKSCOUNT |                                                DESCRIPTIONS                                                |
 |----|-----------------------------------------------------------------|--------|------------|------------|------------|------------------------------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 119526 | 2025-12-29 | 2014-06-06 |      42056 | Production-Grade Container Scheduling and Management                                                       |
-|  2 | [moby](https://github.com/moby/moby)                            |  71281 | 2025-12-29 | 2013-01-18 |      18877 | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
-|  3 | [prometheus](https://github.com/prometheus/prometheus)          |  61957 | 2025-12-29 | 2012-11-24 |      10039 | The Prometheus monitoring system and time series database.                                                 |
-|  4 | [istio](https://github.com/istio/istio)                         |  37744 | 2025-12-29 | 2016-11-18 |       8197 | Connect, secure, control, and observe services.                                                            |
-|  5 | [helm](https://github.com/helm/helm)                            |  29235 | 2025-12-29 | 2015-10-06 |       7457 | The Kubernetes Package Manager                                                                             |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)                    |  27239 | 2025-12-29 | 2016-08-08 |       5207 | Cloud-native high-performance edge/middle/service proxy                                                    |
-|  7 | [harbor](https://github.com/goharbor/harbor)                    |  27217 | 2025-12-29 | 2016-01-28 |       5052 | An open source trusted cloud native registry project that stores, signs, and scans content.                |
-|  8 | [cilium](https://github.com/cilium/cilium)                      |  23164 | 2025-12-29 | 2015-12-16 |       3506 | eBPF-based Networking, Security, and Observability                                                         |
-|  9 | [containerd](https://github.com/containerd/containerd)          |  20036 | 2025-12-29 | 2015-11-13 |       3744 | An open and reliable container runtime                                                                     |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)                |   9716 | 2025-12-29 | 2017-08-02 |       1503 | Backup and migrate Kubernetes applications and their persistent volumes                                    |
-| 11 | [calico](https://github.com/projectcalico/calico)               |   6975 | 2025-12-29 | 2016-07-21 |       1520 | Cloud native networking and network security                                                               |
-| 12 | [serving](https://github.com/knative/serving)                   |   5949 | 2025-12-29 | 2018-01-24 |       1206 | Kubernetes-based, scale-to-zero, request-driven compute                                                    |
-| 13 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) |    855 | 2025-12-23 | 2021-10-08 |        124 | The Encyclopedia of Kubernetes clusters                                                                    |
+|  1 | [linux](https://github.com/torvalds/linux)                      | 212112 | 2025-12-30 | 2011-09-04 |      59663 | Linux kernel source tree                                                                                   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 119549 | 2025-12-30 | 2014-06-06 |      42060 | Production-Grade Container Scheduling and Management                                                       |
+|  3 | [moby](https://github.com/moby/moby)                            |  71284 | 2025-12-30 | 2013-01-18 |      18876 | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          |  61963 | 2025-12-30 | 2012-11-24 |      10043 | The Prometheus monitoring system and time series database.                                                 |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                         |  51208 | 2025-12-30 | 2013-07-06 |      10257 | Distributed reliable key-value store for the most critical data of a distributed system                    |
+|  6 | [istio](https://github.com/istio/istio)                         |  37752 | 2025-12-30 | 2016-11-18 |       8196 | Connect, secure, control, and observe services.                                                            |
+|  7 | [helm](https://github.com/helm/helm)                            |  29238 | 2025-12-30 | 2015-10-06 |       7458 | The Kubernetes Package Manager                                                                             |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)                    |  27246 | 2025-12-30 | 2016-08-08 |       5206 | Cloud-native high-performance edge/middle/service proxy                                                    |
+|  9 | [harbor](https://github.com/goharbor/harbor)                    |  27224 | 2025-12-30 | 2016-01-28 |       5054 | An open source trusted cloud native registry project that stores, signs, and scans content.                |
+| 10 | [cilium](https://github.com/cilium/cilium)                      |  23175 | 2025-12-30 | 2015-12-16 |       3510 | eBPF-based Networking, Security, and Observability                                                         |
+| 11 | [containerd](https://github.com/containerd/containerd)          |  20039 | 2025-12-30 | 2015-11-13 |       3747 | An open and reliable container runtime                                                                     |
+| 12 | [velero](https://github.com/vmware-tanzu/velero)                |   9718 | 2025-12-29 | 2017-08-02 |       1503 | Backup and migrate Kubernetes applications and their persistent volumes                                    |
+| 13 | [calico](https://github.com/projectcalico/calico)               |   6976 | 2025-12-29 | 2016-07-21 |       1521 | Cloud native networking and network security                                                               |
+| 14 | [serving](https://github.com/knative/serving)                   |   5948 | 2025-12-30 | 2018-01-24 |       1207 | Kubernetes-based, scale-to-zero, request-driven compute                                                    |
+| 15 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) |    855 | 2025-12-23 | 2021-10-08 |        124 | The Encyclopedia of Kubernetes clusters                                                                    |
+| 16 | [cloudtty](https://github.com/cloudtty/cloudtty)                |    637 | 2025-12-29 | 2022-04-28 |         81 | A Friendly Kubernetes CloudShell (Web Terminal) !                                                          |
 
 
 
 #### Skipped repos
-etcd-io/etcd
-torvalds/linux
-cloudtty/cloudtty<!--END_SECTION:github_repos-->
+<!--END_SECTION:github_repos-->
 
 <!--START_SECTION:my_github-->
 ## The repos I created
