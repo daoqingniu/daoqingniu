@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-01-01   |
-|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-01-02   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-01-02   |
-|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-01-02   |
-|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2025-12-31   |
-|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-01-01   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2025-12-28   |
-|  8 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2025-12-31   |
-|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2025-12-29   |
-| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-01-01   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-01-02   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-01-03   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-12-29   |
+|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-01-02   |
+|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-01-02   |
+|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-01-03   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-01-02   |
+|  8 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-01-02   |
+|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-01-02   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-12-23   |
 
 <!--END_SECTION:my_github-->
