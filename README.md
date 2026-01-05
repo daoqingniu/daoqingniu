@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-01-03   |
-|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-12-29   |
-|  3 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-01-03   |
-|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-01-03   |
-|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-01-03   |
-|  6 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-01-03   |
-|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-01-04   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-01-05   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-01-05   |
+|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-01-05   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-01-05   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-01-05   |
+|  6 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2026-01-03   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2025-12-29   |
 |  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2025-12-23   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-01-04   |
-| 10 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go       | 2026-01-03   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-01-04   |
+| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-01-04   |
 
 <!--END_SECTION:my_github-->
