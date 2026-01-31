@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-01-27   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-01-29   |
-|  3 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-01-30   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-01-28   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-01-29   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-01-30   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2026-01-29   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-01-29   |
-|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-01-30   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-01-30   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-01-30   |
+|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-01-30   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-01-30   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go         | 2026-01-29   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-01-30   |
+|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-01-31   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-01-31   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-01-30   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-01-31   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-01-29   |
 
 <!--END_SECTION:my_github-->
