@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-02-09   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-02-02   |
-|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-02-11   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-02-10   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-02-06   |
-|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-02-11   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-02-11   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-02-11   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-02-10   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-02-10   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2026-02-11   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-02-11   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-02-11   |
+|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-02-11   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-02-06   |
+|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-02-11   |
+|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-02-11   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-02-11   |
+|  9 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-02-12   |
+| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-02-06   |
 
 <!--END_SECTION:my_github-->
