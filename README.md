@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-02-22   |
-|  2 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-02-22   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-02-20   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-02-20   |
-|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-02-22   |
-|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-01-29   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-02-22   |
-|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-02-19   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-02-23   |
-| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-02-22   |
+|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-02-14   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-02-20   |
+|  3 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-02-23   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-02-23   |
+|  5 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-02-23   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-02-23   |
+|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-02-24   |
+|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-02-24   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-01-29   |
+| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-02-19   |
 
 <!--END_SECTION:my_github-->
