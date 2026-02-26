@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-02-23   |
-|  2 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-02-24   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-01-29   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2026-02-20   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-02-24   |
-|  6 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-02-24   |
-|  7 | [velero](https://github.com/vmware-tanzu/velero)                | 2022-11-29 | Go         | 2026-02-25   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-02-25   |
-|  9 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-02-25   |
-| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-02-19   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-02-26   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-02-25   |
+|  3 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-02-26   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-02-14   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-02-26   |
+|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-01-29   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-02-25   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-02-25   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-02-23   |
+| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-02-25   |
 
 <!--END_SECTION:my_github-->
