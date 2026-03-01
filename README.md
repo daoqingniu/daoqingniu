@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-02-27   |
-|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-02-28   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-02-23   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-02-27   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-02-27   |
-|  6 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-02-28   |
-|  7 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-02-26   |
-|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-02-28   |
-|  9 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2026-02-27   |
-| 10 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-02-14   |
+|  1 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-03-01   |
+|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-03-01   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-02-28   |
+|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-02-25   |
+|  5 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-02-23   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-02-28   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-03-01   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-03-01   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-03-01   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-03-01   |
 
 <!--END_SECTION:my_github-->
