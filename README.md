@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-03-07   |
-|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-03-08   |
-|  3 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-03-07   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-03-07   |
-|  5 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-03-08   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-03-06   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-03-06   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-03-07   |
-|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-03-07   |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-03-08   |
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-03-09   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-03-09   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-03-06   |
+|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-03-08   |
+|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-03-08   |
+|  6 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2026-03-08   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-03-08   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-03-09   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-03-08   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-03-08   |
 
 <!--END_SECTION:my_github-->
