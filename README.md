@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go       | 2026-03-24   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-03-25   |
-|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-03-25   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-03-11   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-03-25   |
-|  6 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-03-24   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-03-21   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-03-25   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-03-25   |
-| 10 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-03-25   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-03-25   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-03-26   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-03-11   |
+|  4 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-03-25   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-03-21   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-03-24   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-03-21   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-03-26   |
+|  9 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-03-26   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-03-25   |
 
 <!--END_SECTION:my_github-->
