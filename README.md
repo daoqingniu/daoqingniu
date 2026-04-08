@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-04-07   |
-|  2 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-04-07   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-04-06   |
-|  4 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-04-06   |
-|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-04-06   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-04-06   |
-|  7 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-04-06   |
-|  8 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-04-07   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-04-01   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-04-06   |
+|  1 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-04-08   |
+|  2 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-04-07   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-04-07   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-03-21   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)       | 2022-11-29 | Go         | 2026-04-08   |
+|  6 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-04-07   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-04-07   |
+|  8 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-04-01   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-04-08   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-04-08   |
 
 <!--END_SECTION:my_github-->
