@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-04-13   |
-|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-04-17   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-04-16   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-04-17   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-04-16   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-04-17   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-04-14   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-04-16   |
-|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-04-16   |
-| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-04-17   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-04-17   |
+|  2 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-04-17   |
+|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-04-17   |
+|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-04-17   |
+|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-04-18   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-04-17   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-04-17   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-04-17   |
+|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-04-17   |
+| 10 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-04-17   |
 
 <!--END_SECTION:my_github-->
