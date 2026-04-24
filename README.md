@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-04-20   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-04-22   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-04-23   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-04-23   |
-|  5 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-04-22   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-04-21   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-04-23   |
-|  8 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-04-22   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-04-23   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-04-22   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-04-23   |
+|  2 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-04-24   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-04-21   |
+|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-04-24   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-04-24   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-04-20   |
+|  7 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-04-23   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-04-24   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2026-04-23   |
+| 10 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-04-24   |
 
 <!--END_SECTION:my_github-->
