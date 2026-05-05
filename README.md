@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-05-03   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-05-03   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-05-04   |
-|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-05-03   |
+|  1 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-05-04   |
+|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-05-05   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-05-05   |
+|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-05-04   |
 |  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-04-29   |
-|  6 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-05-03   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-05-01   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-04-26   |
-|  9 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-05-04   |
-| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-05-04   |
+|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-05-04   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-05-04   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-05-05   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-05-05   |
+| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-05-01   |
 
 <!--END_SECTION:my_github-->
