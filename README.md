@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-04-26   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-05-01   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-04-29   |
-|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-05-05   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-05-05   |
-|  6 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-05-05   |
-|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-05-06   |
-|  8 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-05-06   |
-|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-05-05   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-05-04   |
+|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-05-06   |
+|  2 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-05-06   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-05-01   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-05-07   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-05-07   |
+|  6 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-05-07   |
+|  7 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-05-06   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-05-07   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-05-07   |
+| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-05-07   |
 
 <!--END_SECTION:my_github-->
