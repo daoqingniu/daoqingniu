@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-05-11   |
-|  2 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-05-12   |
-|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-05-12   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-05-11   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-05-12   |
-|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-05-11   |
-|  7 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-05-11   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-05-11   |
-|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-05-12   |
-| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-05-11   |
+|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-05-13   |
+|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-05-12   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-05-13   |
+|  4 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-05-12   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-05-13   |
+|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-05-12   |
+|  7 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-05-13   |
+|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-05-12   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-05-13   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-05-13   |
 
 <!--END_SECTION:my_github-->
