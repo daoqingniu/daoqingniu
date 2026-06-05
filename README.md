@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-06-03   |
-|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-06-01   |
-|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-06-04   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-06-04   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-06-02   |
-|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-05-29   |
-|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-06-04   |
-|  8 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-06-01   |
-|  9 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-06-04   |
-| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-06-04   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-06-04   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-06-01   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-06-05   |
+|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-06-05   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-06-04   |
+|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-06-05   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-06-05   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-06-05   |
+|  9 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-06-04   |
+| 10 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-06-04   |
 
 <!--END_SECTION:my_github-->
