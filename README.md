@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-06-01   |
-|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-06-01   |
-|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-06-06   |
-|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-06-06   |
-|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-06-06   |
-|  6 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-06-06   |
-|  7 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-06-06   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-06-06   |
-|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-06-06   |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-06-04   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-06-07   |
+|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-06-05   |
+|  3 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-06-08   |
+|  4 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-06-01   |
+|  5 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-06-08   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-06-05   |
+|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-06-01   |
+|  8 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-06-08   |
+|  9 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-06-08   |
+| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-06-08   |
 
 <!--END_SECTION:my_github-->
