@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-06-25   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-06-28   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-06-24   |
-|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-06-29   |
-|  5 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-06-29   |
-|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-06-29   |
-|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-06-28   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-06-29   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-06-29   |
-| 10 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-06-29   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-06-30   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-06-29   |
+|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2026-06-29   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-06-29   |
+|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-06-30   |
+|  6 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-06-29   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-06-30   |
+|  8 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-06-10   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-06-29   |
+| 10 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-06-25   |
 
 <!--END_SECTION:my_github-->
