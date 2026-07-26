@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-07-24   |
+|  1 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-07-25   |
 |  2 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-07-21   |
-|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-07-25   |
-|  4 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-07-24   |
-|  5 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-07-24   |
-|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-07-25   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-07-21   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-07-25   |
-|  9 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-07-24   |
-| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-07-25   |
+|  3 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-07-24   |
+|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-07-25   |
+|  5 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-07-25   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-07-26   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-07-26   |
+|  8 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-07-26   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-07-25   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-07-25   |
 
 <!--END_SECTION:my_github-->
