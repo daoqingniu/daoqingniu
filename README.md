@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-07-28   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-07-18   |
-|  3 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-07-28   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-07-29   |
-|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-07-29   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-07-29   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-07-24   |
-|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-07-28   |
-|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-07-29   |
-| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2026-07-29   |
+|  1 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2026-07-30   |
+|  2 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2026-07-29   |
+|  3 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-07-29   |
+|  4 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-07-30   |
+|  5 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-07-30   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-07-29   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-07-29   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-07-29   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-07-24   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-07-18   |
 
 <!--END_SECTION:my_github-->
