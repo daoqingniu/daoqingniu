@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-07-29   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-07-30   |
+|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-08-04   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-08-04   |
 |  3 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-08-03   |
-|  4 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-08-02   |
-|  5 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-08-03   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-08-03   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-08-01   |
-|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-08-03   |
-|  9 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-08-01   |
-| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-08-02   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-08-04   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-07-29   |
+|  6 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-08-03   |
+|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-08-03   |
+|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-08-04   |
+|  9 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-08-04   |
+| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-08-03   |
 
 <!--END_SECTION:my_github-->
