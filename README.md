@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-08-04   |
-|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-04   |
-|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-08-05   |
-|  4 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-08-04   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-08-05   |
-|  6 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-08-05   |
-|  7 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-07-18   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-08-05   |
-|  9 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-08-05   |
-| 10 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-08-04   |
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-07-30   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-08-05   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-08-06   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-08-06   |
+|  5 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-06   |
+|  6 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-08-06   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-08-06   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-08-04   |
+|  9 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-08-05   |
+| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-08-05   |
 
 <!--END_SECTION:my_github-->
