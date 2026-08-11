@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-08-10   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-08-09   |
-|  3 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-08-09   |
-|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-08-09   |
-|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-08-09   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-07-30   |
-|  7 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-08-09   |
-|  8 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-08-10   |
-|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-08-09   |
-| 10 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-08-09   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-08-10   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-08-05   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-08-10   |
+|  4 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-08-11   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-08-10   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-08-10   |
+|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-08-10   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-08-11   |
+|  9 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-08-10   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-08-11   |
 
 <!--END_SECTION:my_github-->
