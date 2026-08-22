@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-08-20   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-08-20   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-08-14   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-08-20   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-08-20   |
-|  6 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-08-20   |
-|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-08-20   |
-|  8 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-08-21   |
-|  9 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-20   |
-| 10 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-08-20   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-08-19   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-08-21   |
+|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-08-21   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-08-22   |
+|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-08-21   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-08-22   |
+|  7 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-08-21   |
+|  8 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-08-18   |
+|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-08-21   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2026-08-21   |
 
 <!--END_SECTION:my_github-->
