@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-08-22   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-08-22   |
-|  3 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-08-21   |
-|  4 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-08-18   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-08-22   |
-|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-08-22   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-08-23   |
-|  8 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-08-22   |
-|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-08-22   |
-| 10 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-08-22   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-23   |
+|  2 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-08-23   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-08-21   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-08-23   |
+|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-08-24   |
+|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-08-24   |
+|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-08-18   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-08-23   |
+|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-08-23   |
+| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-08-23   |
 
 <!--END_SECTION:my_github-->
