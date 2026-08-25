@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-23   |
-|  2 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-08-23   |
-|  3 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-08-21   |
-|  4 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-08-23   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-08-24   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-08-24   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-08-18   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-08-23   |
-|  9 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-08-23   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-08-23   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-08-24   |
+|  2 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-08-25   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-08-19   |
+|  4 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-08-24   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-08-24   |
+|  6 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-08-24   |
+|  7 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-08-24   |
+|  8 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-08-24   |
+|  9 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-08-24   |
+| 10 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-08-24   |
 
 <!--END_SECTION:my_github-->
