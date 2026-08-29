@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-08-27   |
-|  2 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-08-28   |
-|  3 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-08-28   |
-|  4 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-08-28   |
-|  5 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-08-25   |
-|  6 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-08-28   |
-|  7 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-08-24   |
-|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-08-28   |
-|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-08-27   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-08-28   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-08-24   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-08-19   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-08-29   |
+|  4 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-08-29   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2026-08-21   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-08-28   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-08-29   |
+|  8 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-08-28   |
+|  9 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-08-28   |
+| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-08-28   |
 
 <!--END_SECTION:my_github-->
