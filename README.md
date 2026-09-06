@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-09-05   |
-|  2 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-08-31   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-09-04   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-09-04   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-09-04   |
-|  6 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-09-04   |
-|  7 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-09-05   |
-|  8 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-09-05   |
-|  9 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-09-05   |
-| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-09-05   |
+|  1 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go       | 2026-09-05   |
+|  2 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-09-06   |
+|  3 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-09-06   |
+|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-09-06   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-09-05   |
+|  6 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-09-05   |
+|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go       | 2026-09-04   |
+|  8 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++      | 2026-09-05   |
+|  9 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go       | 2026-08-31   |
+| 10 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-09-05   |
 
 <!--END_SECTION:my_github-->
