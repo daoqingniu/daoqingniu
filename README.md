@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-09-15   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-09-15   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-09-14   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-09-14   |
-|  5 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-09-14   |
-|  6 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go         | 2026-09-14   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-09-11   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-09-15   |
-|  9 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-09-14   |
-| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-09-15   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-09-15   |
+|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-09-16   |
+|  3 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-09-16   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-09-16   |
+|  5 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-09-16   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-09-14   |
+|  7 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-09-16   |
+|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-09-16   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-09-10   |
+| 10 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-09-16   |
 
 <!--END_SECTION:my_github-->
