@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-09-22   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-09-21   |
-|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-09-21   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-09-22   |
-|  5 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-09-22   |
-|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-09-22   |
-|  7 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-09-22   |
-|  8 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-09-21   |
-|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-09-21   |
-| 10 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-09-22   |
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-09-22   |
+|  2 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-09-21   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-09-22   |
+|  4 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-09-23   |
+|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-09-21   |
+|  6 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-09-23   |
+|  7 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-09-23   |
+|  8 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-09-22   |
+|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-09-22   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-09-23   |
 
 <!--END_SECTION:my_github-->
