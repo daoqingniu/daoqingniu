@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md       | 2026-10-03   |
-|  2 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-10-02   |
-|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-10-04   |
-|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-10-04   |
-|  5 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-10-04   |
-|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go       | 2026-10-03   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go       | 2026-09-30   |
-|  8 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go       | 2026-10-04   |
-|  9 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-10-02   |
-| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-10-04   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-10-03   |
+|  2 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-10-02   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-10-04   |
+|  4 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-10-04   |
+|  5 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-10-02   |
+|  6 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-10-05   |
+|  7 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-10-05   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-10-05   |
+|  9 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-10-04   |
+| 10 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-10-04   |
 
 <!--END_SECTION:my_github-->
