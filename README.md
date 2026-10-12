@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-10-05   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-10-11   |
-|  3 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-10-11   |
-|  4 | [envoy](https://github.com/envoyproxy/envoy)           | 2022-11-29 | C++        | 2026-10-11   |
-|  5 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-10-11   |
-|  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-10-11   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-10-09   |
-|  8 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-10-11   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-10-08   |
-| 10 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-10-11   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-10-12   |
+|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-10-12   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-10-09   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-09-29   |
+|  5 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-10-11   |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-10-09   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-10-10   |
+|  8 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-10-12   |
+|  9 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-10-11   |
+| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-10-12   |
 
 <!--END_SECTION:my_github-->
