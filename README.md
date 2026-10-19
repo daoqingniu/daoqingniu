@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-10-18   |
-|  2 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-10-17   |
-|  3 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-10-18   |
-|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-10-18   |
-|  5 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go       | 2026-10-18   |
-|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-10-15   |
-|  7 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-10-16   |
-|  8 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-10-17   |
-|  9 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-10-18   |
-| 10 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-10-17   |
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go       | 2026-10-19   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-10-18   |
+|  3 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-10-18   |
+|  4 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-10-18   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-10-15   |
+|  6 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-10-19   |
+|  7 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-10-18   |
+|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-10-19   |
+|  9 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-10-18   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-10-19   |
 
 <!--END_SECTION:my_github-->
