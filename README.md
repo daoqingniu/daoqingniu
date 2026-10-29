@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-10-28   |
-|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-10-24   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-10-28   |
-|  4 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-10-27   |
-|  5 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-10-21   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-10-27   |
-|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2026-10-24   |
-|  8 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-10-28   |
-|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2026-10-28   |
-| 10 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-10-27   |
+|  1 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go         | 2026-10-29   |
+|  2 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-10-29   |
+|  3 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-10-29   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-10-29   |
+|  5 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-10-29   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-10-29   |
+|  7 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2026-10-29   |
+|  8 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go         | 2026-10-29   |
+|  9 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-10-28   |
+| 10 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-10-29   |
 
 <!--END_SECTION:my_github-->
