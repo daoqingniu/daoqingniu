@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-11-05   |
-|  2 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C          | 2026-11-06   |
-|  3 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md         | 2026-11-05   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-11-04   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2026-11-05   |
-|  6 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-11-05   |
-|  7 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-11-06   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go         | 2026-11-06   |
-|  9 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-11-06   |
-| 10 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-10-29   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-11-06   |
+|  2 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-11-07   |
+|  3 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-11-07   |
+|  4 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-11-06   |
+|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-11-07   |
+|  6 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-11-06   |
+|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-11-06   |
+|  8 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-11-06   |
+|  9 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-11-06   |
+| 10 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-11-07   |
 
 <!--END_SECTION:my_github-->
