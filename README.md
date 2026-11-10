@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go       | 2026-11-09   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go       | 2026-11-09   |
-|  3 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go       | 2026-11-09   |
-|  4 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C        | 2026-11-09   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go       | 2026-11-09   |
-|  6 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go       | 2026-11-09   |
-|  7 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go       | 2026-11-08   |
-|  8 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go       | 2026-11-08   |
-|  9 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML     | 2026-11-08   |
-| 10 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md       | 2026-11-08   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-11-10   |
+|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-11-10   |
+|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-11-10   |
+|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-11-10   |
+|  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-11-10   |
+|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-11-09   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-11-10   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-11-08   |
+|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-11-09   |
+| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-11-09   |
 
 <!--END_SECTION:my_github-->
