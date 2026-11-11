@@ -43,17 +43,17 @@
 | sum |      |           |           |       0 |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-11-10   |
-|  2 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-11-10   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                | 2022-11-29 | Go         | 2026-11-10   |
-|  4 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-11-10   |
-|  5 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-11-10   |
-|  6 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-11-09   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes) | 2022-11-29 | Go         | 2026-11-10   |
-|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-11-08   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-11-09   |
-| 10 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-11-09   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-11-11   |
+|  2 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML     | 2026-11-09   |
+|  3 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-11-10   |
+|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-11-06   |
+|  5 | [istio](https://github.com/istio/istio)                         | 2022-11-29 | Go       | 2026-11-11   |
+|  6 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-11-11   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-11-09   |
+|  8 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-11-11   |
+|  9 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-11-11   |
+| 10 | [daoqingniu](https://github.com/daoqingniu/daoqingniu)          | 2022-11-29 | md       | 2026-11-10   |
 
 <!--END_SECTION:my_github-->
