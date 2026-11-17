@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [prometheus](https://github.com/prometheus/prometheus)          | 2022-11-29 | Go         | 2026-11-16   |
-|  2 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go         | 2026-11-16   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-11-15   |
-|  4 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go         | 2026-11-11   |
+|  1 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go         | 2026-11-16   |
+|  2 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-11-14   |
+|  3 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-11-16   |
+|  4 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++        | 2026-11-17   |
 |  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go         | 2026-11-12   |
-|  6 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-11-16   |
-|  7 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-11-15   |
-|  8 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go         | 2026-11-15   |
-|  9 | [sandbox](https://github.com/cncf/sandbox)                      | 2022-11-29 | JavaScript | 2026-11-14   |
-| 10 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go         | 2026-11-16   |
+|  6 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go         | 2026-11-16   |
+|  7 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md         | 2026-11-16   |
+|  8 | [kubeedge](https://github.com/kubeedge/kubeedge)                | 2022-11-29 | Go         | 2026-11-15   |
+|  9 | [tag-security](https://github.com/cncf/tag-security)            | 2022-11-29 | HTML       | 2026-11-16   |
+| 10 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go         | 2026-11-17   |
 
 <!--END_SECTION:my_github-->
