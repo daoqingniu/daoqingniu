@@ -44,15 +44,15 @@ helm/helm<!--END_SECTION:github_repos-->
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-11-19   |
-|  2 | [etcd](https://github.com/etcd-io/etcd)                         | 2022-11-29 | Go       | 2026-11-19   |
-|  3 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-11-19   |
-|  4 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-11-12   |
-|  5 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-11-18   |
-|  6 | [jaeger](https://github.com/jaegertracing/jaeger)               | 2022-11-29 | Go       | 2026-11-18   |
-|  7 | [envoy](https://github.com/envoyproxy/envoy)                    | 2022-11-29 | C++      | 2026-11-19   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-11-19   |
-|  9 | [harbor](https://github.com/goharbor/harbor)                    | 2022-11-29 | Go       | 2026-11-19   |
-| 10 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-11-18   |
+|  1 | [velero](https://github.com/velero-io/velero)                   | 2022-11-29 | Go       | 2026-11-20   |
+|  2 | [serving](https://github.com/knative/serving)                   | 2022-11-29 | Go       | 2026-11-19   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-11-29 | Go       | 2026-11-12   |
+|  4 | [cilium](https://github.com/cilium/cilium)                      | 2022-11-29 | Go       | 2026-11-20   |
+|  5 | [containerd](https://github.com/containerd/containerd)          | 2022-11-29 | Go       | 2026-11-20   |
+|  6 | [helm](https://github.com/helm/helm)                            | 2022-11-29 | Go       | 2026-11-19   |
+|  7 | [linux](https://github.com/torvalds/linux)                      | 2022-11-29 | C        | 2026-11-20   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2022-11-29 | Go       | 2026-11-20   |
+|  9 | [cloudtty](https://github.com/cloudtty/cloudtty)                | 2022-11-29 | Go       | 2026-11-19   |
+| 10 | [landscape](https://github.com/cncf/landscape)                  | 2022-11-29 | md       | 2026-11-20   |
 
 <!--END_SECTION:my_github-->
