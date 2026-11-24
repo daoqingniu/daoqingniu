@@ -45,15 +45,15 @@
 ## The repos I stared (random 10)
 | ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                | 2022-11-29 | Go         | 2026-11-22   |
-|  2 | [prometheus](https://github.com/prometheus/prometheus) | 2022-11-29 | Go         | 2026-11-22   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)   | 2022-11-29 | HTML       | 2026-11-22   |
-|  4 | [serving](https://github.com/knative/serving)          | 2022-11-29 | Go         | 2026-11-21   |
-|  5 | [cilium](https://github.com/cilium/cilium)             | 2022-11-29 | Go         | 2026-11-23   |
+|  1 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-11-21   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)       | 2022-11-29 | Go         | 2026-11-24   |
+|  3 | [jaeger](https://github.com/jaegertracing/jaeger)      | 2022-11-29 | Go         | 2026-11-24   |
+|  4 | [harbor](https://github.com/goharbor/harbor)           | 2022-11-29 | Go         | 2026-11-24   |
+|  5 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-11-12   |
 |  6 | [containerd](https://github.com/containerd/containerd) | 2022-11-29 | Go         | 2026-11-23   |
-|  7 | [landscape](https://github.com/cncf/landscape)         | 2022-11-29 | md         | 2026-11-21   |
-|  8 | [daoqingniu](https://github.com/daoqingniu/daoqingniu) | 2022-11-29 | md         | 2026-11-12   |
+|  7 | [cloudtty](https://github.com/cloudtty/cloudtty)       | 2022-11-29 | Go         | 2026-11-19   |
+|  8 | [helm](https://github.com/helm/helm)                   | 2022-11-29 | Go         | 2026-11-24   |
 |  9 | [sandbox](https://github.com/cncf/sandbox)             | 2022-11-29 | JavaScript | 2026-11-14   |
-| 10 | [velero](https://github.com/velero-io/velero)          | 2022-11-29 | Go         | 2026-11-22   |
+| 10 | [linux](https://github.com/torvalds/linux)             | 2022-11-29 | C          | 2026-11-24   |
 
 <!--END_SECTION:my_github-->
